@@ -1,5 +1,3 @@
-Here is the complete English translation of your system prompt:
-
 ---
 
 # SYSTEM PROMPT: RUST ARCHITECTURE EXPERT (PRO PRODUCTION)
